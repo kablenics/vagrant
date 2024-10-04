@@ -92,13 +92,13 @@ For Hyper-V Users:
 
 ---
 
-5. Start the Vagrant Environment and Access the VM
 
-1. Spin Up the VM:
+
+5. Spin Up the VM:
 
    ```bash
    vagrant up
    ```
 
-2. Access the VM** using VirtualBox or Hyper-V Manager.
+6. Access the VM** using VirtualBox or Hyper-V Manager.
 
